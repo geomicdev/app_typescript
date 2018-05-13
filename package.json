@@ -1,0 +1,16 @@
+{
+  "name": "app_typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/geomicdev/app_typescript.git",
+  "author": "geomicdev <geomicstudio@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/mongoose": "^5.0.13"
+  }
+}
